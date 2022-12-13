@@ -1,0 +1,7 @@
+Root,Algorithm,Trig,Costs,Time
+1,kruskal,false,,0.00011682510375976562
+1,prim,false,,0.00011610984802246094
+2,kruskal,false,,0.0001220703125
+2,prim,false,,6.699562072753906e-5
+3,kruskal,false,,0.00010418891906738281
+3,prim,false,,9.417533874511719e-5
