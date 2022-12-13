@@ -1,4 +1,4 @@
-# ImageReconstruction
+# Image Reconstruction
 
 This repository is an implementation of the Lin-Kernighan heuristic to solve the travelling salesman problem (TSP), which is a problem that belongs to the NP-complete class.
 
